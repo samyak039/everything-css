@@ -1,0 +1,117 @@
+* {
+  border-color: #6272a4 !important;
+}
+a {
+  color: #f55 !important;
+}
+a:visited {
+  color: #50fa7b !important;
+}
+body {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+html {
+  background-color: #282a36 !important;
+}
+input,
+textarea {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+blockquote,
+pre {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+#sr-header-area {
+  background-color: #44475a !important;
+}
+#sr-header-area .srdrop .selected {
+  color: #f8f8f2 !important;
+}
+#sr-header-area #sr-more-link {
+  background-color: #44475a !important;
+}
+.link.promotedlink.promoted {
+  background-color: #44475a !important;
+}
+.link .usertext .md {
+  background-color: #44475a !important;
+}
+.linkinfo {
+  background-color: #44475a !important;
+}
+.linklisting .odd {
+  background-color: #44475a !important;
+}
+.thing .title {
+  color: #f8f8f2 !important;
+}
+div.md {
+  color: #f8f8f2 !important;
+}
+body.comment {
+  background-color: #282a36 !important;
+}
+.commentarea > .usertext {
+  background-color: #282a36 !important;
+}
+.commentarea .menuarea {
+  background-color: #282a36 !important;
+}
+.comments-page .panestack-title {
+  background-color: #282a36 !important;
+}
+.listing-chooser {
+  background-color: #282a36 !important;
+}
+.listing-chooser .intro {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.listing-chooser .grippy {
+  background-color: #282a36 !important;
+}
+.listing-chooser .grippy:after {
+  border-right: none !important;
+}
+.listing-chooser li {
+  background-color: #44475a !important;
+}
+.listing-chooser li.selected {
+  background-color: #6272a4 !important;
+  box-shadow: none;
+}
+.listing-chooser li a {
+  color: #f8f8f2 !important;
+}
+.listing-chooser li a .description {
+  color: #f8f8f2 !important;
+}
+.titlebox {
+  background-color: #44475a !important;
+}
+.titlebox form.toggle {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.side .usertext-body .md {
+  background-color: #44475a !important;
+}
+.side {
+  background-color: #44475a !important;
+}
+.sidebox .spacer {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.tabmenu li a {
+  background-color: #44475a !important;
+}
+#header-bottom-right {
+  background-color: #44475a !important;
+}
+.morelink .nub {
+  background-color: #44475a !important;
+}

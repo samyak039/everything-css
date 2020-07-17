@@ -1,44 +1,44 @@
 * {
-  border-color: #909396 !important;
+  border-color: #6272a4 !important;
 }
 a {
-  color: #ce4139 !important;
+  color: #f55 !important;
 }
 a:visited {
-  color: #b68800 !important;
+  color: #50fa7b !important;
 }
 body {
-  background-color: #262626 !important;
-  color: #909396 !important;
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
 }
 html {
-  background-color: #262626 !important;
+  background-color: #282a36 !important;
 }
 input,
 textarea {
-  background-color: #2e2e2e !important;
-  color: #909396 !important;
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
 }
 blockquote,
 pre {
-  background-color: #2e2e2e !important;
-  color: #909396 !important;
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
 }
 code {
   font-size: 1.2em;
 }
 pre {
   box-shadow: none;
-  background-color: #363636 !important;
+  background-color: #4a4d62 !important;
   font-size: 1.2em;
 }
 img {
   margin: 0.25em;
 }
 .buttons {
-  background-color: #2e2e2e !important;
-  box-shadow: 0 0 10px #a6aaab;
-  color: #a6aaab !important;
+  background-color: #44475a !important;
+  box-shadow: 0 0 10px #f8f8f2;
+  color: #f8f8f2 !important;
   font-family: sans-serif;
   font-size: 1.5rem;
   position: fixed;
@@ -60,7 +60,7 @@ img {
   text-align: center;
 }
 #tabs {
-  background-color: #2e2e2e !important;
+  background-color: #44475a !important;
   float: left;
   margin: 0px 0px 20px 0px;
   padding: 0;
@@ -87,11 +87,11 @@ img {
   text-decoration: none;
 }
 #tabs li a:hover {
-  color: #97bdef !important;
+  color: #8080ff !important;
 }
 #tabs li.ui-tabs-active a {
-  background-color: #363636 !important;
-  color: #639ce6 !important;
+  background-color: #4a4d62 !important;
+  color: #4040ff !important;
 }
 #content {
   clear: both;
@@ -100,7 +100,7 @@ img {
   text-align: right;
 }
 blockquote {
-  background-color: #2e2e2e !important;
+  background-color: #44475a !important;
   padding-left: 0.75em;
   padding-right: 0.75em;
   padding-top: 0.01em;
@@ -135,7 +135,7 @@ h5,
 h6 {
   font-family: sans-serif;
   border-bottom: 2px solid;
-  border-color: #363636 !important;
+  border-color: #4a4d62 !important;
 }
 a:hover {
   text-decoration: underline;
@@ -145,12 +145,12 @@ a:hover {
   float: right;
 }
 .tag {
-  background-color: #262626 !important;
-  color: #a6aaab !important;
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
   border: 0px;
 }
 .tag span {
-  background-color: #363636 !important;
+  background-color: #4a4d62 !important;
   margin: 0.25em;
   padding: 0.25em;
 }
@@ -168,12 +168,12 @@ a:hover {
   text-decoration: underline;
 }
 #minitoc {
-  background-color: #2e2e2e !important;
+  background-color: #44475a !important;
   position: fixed;
   bottom: 5em;
   left: -5.5em;
   transform: rotate(90deg);
-  box-shadow: 0px 0px 10px #a6aaab;
+  box-shadow: 0px 0px 10px #f8f8f2;
   padding-top: 0.1em;
   padding-bottom: 0.1em;
   padding-left: 0.5em;

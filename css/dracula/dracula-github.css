@@ -1,0 +1,976 @@
+* {
+  border-color: #6272a4 !important;
+}
+a {
+  color: #f55 !important;
+}
+a:visited {
+  color: #50fa7b !important;
+}
+body {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+html {
+  background-color: #282a36 !important;
+}
+input,
+textarea {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+blockquote,
+pre {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+* {
+  border-color: #44475a !important;
+}
+.news .alert .pull-info {
+  background-color: #474a5e !important;
+}
+.link-gray-dark,
+.text-gray-dark {
+  color: #f8f8f2 !important;
+}
+.bg-white {
+  background-color: #282a36 !important;
+}
+.border {
+  border-color: #6272a4 !important;
+}
+.breadcrumb .repo-root.js-repo-root a {
+  color: #00f !important;
+}
+.breadcrumb strong.final-path {
+  color: #f8f8f2 !important;
+}
+button.ajax-pagination-btn {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+button.ajax-pagination-btn:hover {
+  background-color: #6272a4 !important;
+}
+.comment-reactions .btn-link {
+  color: #f8f8f2 !important;
+}
+.comment-reactions .user-has-reacted {
+  background-color: #44475a !important;
+}
+.text-gray-dark {
+  color: #f8f8f2 !important;
+}
+.contrib-number {
+  color: #f8f8f2 !important;
+}
+.counter {
+  background-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+}
+.diffstat-bar {
+  color: #f8f8f2 !important;
+}
+.file-header {
+  background-color: #44475a !important;
+}
+.file-history-tease .participation {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+.file-history-tease .participation .quickstat strong {
+  color: #f8f8f2 !important;
+}
+.file-history-tease .participation a {
+  color: #6272a4 !important;
+}
+.file-history-tease .author a {
+  color: #f8f8f2 !important;
+}
+.file-history-tease-header {
+  background-color: #44475a !important;
+}
+.file-info-divider {
+  background-color: #6272a4 !important;
+}
+.file-wrap {
+  color: #f8f8f2 !important;
+}
+.file-wrap * {
+  background-color: transparent !important;
+}
+.filter-bar {
+  background-color: #474a5e !important;
+}
+a.filter-item,
+.filter-item {
+  color: #f8f8f2 !important;
+}
+a.filter-item.selected,
+.filter-item.selected {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+a.filter-item:hover,
+.filter-item:hover {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.flash {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.gh-header {
+  background-color: #282a36 !important;
+}
+.gh-header-number {
+  color: #6272a4 !important;
+}
+.ellipsis-expander,
+.hidden-text-expander a {
+  background-color: #44475a !important;
+}
+.issue-meta {
+  color: #6272a4 !important;
+}
+.issues-listing a {
+  color: #f8f8f2 !important;
+}
+.muted-link {
+  color: #f8f8f2 !important;
+}
+.new-user-avatar-cta {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.overall-summary {
+  border-color: #6272a4 !important;
+}
+.pinned-repo-item.border {
+  border-color: #6272a4 !important;
+}
+.progress-bar {
+  background-color: #6272a4 !important;
+}
+.simple-box {
+  background-color: #44475a !important;
+}
+.social-count {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.scope-badge {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.stats-switcher-wrapper {
+  background-color: #282a36 !important;
+}
+.stats-switcher-wrapper .numbers-summary li a {
+  color: #f8f8f2 !important;
+}
+.table-list-header-toggle .btn-link {
+  color: #6272a4 !important;
+}
+.table-list-header-toggle .btn-link.selected {
+  color: #f8f8f2 !important;
+}
+.text-emphasized {
+  color: #f8f8f2 !important;
+}
+.text-diff-added {
+  color: #50fa7b !important;
+}
+.text-diff-deleted {
+  color: #f55 !important;
+}
+.avatar,
+.timeline-comment-avatar {
+  filter: opacity(75%);
+}
+.blob-code {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+.blob-code-addition {
+  background-color: rgba(168,252,189,0.1) !important;
+}
+.blob-code-addition .x {
+  background-color: #07f142 !important;
+  color: #fbfbf9 !important;
+}
+.blob-code-deletion {
+  background-color: rgba(255,85,85,0.2) !important;
+}
+.blob-code-deletion .x {
+  background-color: #a00 !important;
+  color: #fbfbf9 !important;
+}
+.blob-code-hunk {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.blob-code-inner {
+  color: #f8f8f2 !important;
+}
+.blob-num {
+  background-color: #282a36 !important;
+  color: #6272a4 !important;
+}
+.file {
+  color: #f8f8f2 !important;
+}
+.form-control {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.pl-c {
+  color: #6272a4 !important;
+}
+.pl-c1 {
+  color: #00f !important;
+}
+.pl-e {
+  color: #f1fa8c !important;
+}
+.pl-en {
+  color: #00f !important;
+}
+.pl-k {
+  color: #50fa7b !important;
+  font-weight: bold !important;
+}
+.pl-pds {
+  color: #8be9fd !important;
+}
+.pl-s {
+  color: #8be9fd !important;
+}
+.pl-smi {
+  color: #f8f8f2 !important;
+}
+.pl-v {
+  color: #50fa7b !important;
+  font-weight: bold !important;
+}
+.pl-mi1 {
+  color: #50fa7b !important;
+  background-color: transparent !important;
+}
+.pl-md {
+  color: #f55 !important;
+  background-color: transparent !important;
+}
+.border-bottom,
+.border-top {
+  border-color: #44475a !important;
+}
+.boxed-group * {
+  border-color: #6272a4 !important;
+}
+.boxed-group article {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+.boxed-group > h3 {
+  background-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+}
+.more-repos {
+  background-color: #4a4d62 !important;
+  box-shadow: inset 0 1px 0 #6272a4 !important;
+}
+.boxed-group-inner {
+  background-color: #282a36 !important;
+}
+.branch-action-body {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.branch-action-body div {
+  border-color: #6272a4 !important;
+}
+.branch-action-state-clean .branch-action-icon {
+  background-color: #50fa7b !important;
+}
+.branch-action-state-dirty .branch-action-icon,
+.branch-action-state-unstable .branch-action-icon,
+.branch-action-state-unknown .branch-action-icon {
+  background-color: #f1fa8c !important;
+  color: #fff !important;
+}
+.text-shadow-light,
+.branch-group-name,
+.branch-summary {
+  color: #f8f8f2 !important;
+  text-shadow: none !important;
+}
+.branch-a-b-count .meter {
+  background-color: #f1fa8c !important;
+}
+.more-branches,
+.branch-group-heading,
+.branch-infobar,
+.branch-name {
+  border-color: #6272a4 !important;
+  background-color: #44475a !important;
+}
+.State,
+.State:visited {
+  color: #fff !important;
+}
+.State--red {
+  background-color: #f55 !important;
+  color: #282a36 !important;
+}
+.State--green {
+  background-color: #50fa7b !important;
+  color: #282a36 !important;
+}
+.select-menu-filters {
+  background-color: #474a5e !important;
+  color: #f8f8f2 !important;
+}
+.js-select-menu-tab {
+  background-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+}
+.select-menu-tabs a.selected,
+.select-menu-tab-nav.selected {
+  background-color: #6272a4 !important;
+  color: #282a36 !important;
+}
+.signed-commit-header {
+  background-color: #282a36 !important;
+}
+.build-status-item {
+  background-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+}
+.build-status-item .build-status-details {
+  color: #00f !important;
+}
+.capped-card h3 {
+  background-color: #4a4d62 !important;
+}
+.capped-card h3 a {
+  color: #f8f8f2 !important;
+}
+.capped-card-content {
+  background-color: #282a36 !important;
+}
+.capped-list th {
+  background-color: #474a5e !important;
+  color: #f8f8f2 !important;
+}
+.capped-list tr:nth-child(2n) {
+  background-color: #44475a !important;
+}
+.commit,
+.commit-meta,
+.commit-icon .octicon,
+.commit-group-title .octicon-git-commit {
+  background-color: #282a36 !important;
+}
+.commit *,
+.commit-meta *,
+.commit-icon .octicon *,
+.commit-group-title .octicon-git-commit * {
+  border-color: #6272a4 !important;
+}
+.commit-author {
+  color: #f8f8f2 !important;
+}
+.commit-author-section {
+  color: #f8f8f2 !important;
+}
+.commit-meta {
+  color: #6272a4 !important;
+}
+.commit-meta .sha-block {
+  color: #6272a4 !important;
+}
+.commit-meta .sha-block .sha {
+  color: #f8f8f2 !important;
+}
+.commit-ref,
+code.commit-sha {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.commit-ref .user,
+code.commit-sha .user {
+  color: #8be9fd !important;
+}
+.commit-branches *,
+.commit-tease,
+.commit-title {
+  background-color: rgba(0,0,255,0.2) !important;
+  border: none !important;
+}
+.commit-branches * *,
+.commit-tease *,
+.commit-title * {
+  color: #f8f8f2 !important;
+}
+.commit-tease-contributors {
+  background-color: #44475a !important;
+}
+div.commit-branches,
+div.commit.full-commit p.commit-title,
+qul.branches-list {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+div.commit-branches *,
+div.commit.full-commit p.commit-title *,
+qul.branches-list * {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.commit-meta {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.commits-listing:before {
+  background-color: #44475a !important;
+}
+.full-commit {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.full-commit * {
+  text-shadow: none !important;
+}
+.commit-desc pre {
+  background-color: transparent !important;
+  color: #f8f8f2 !important;
+}
+.commit.table-list-item {
+  border-color: #44475a !important;
+}
+.commit-meta.commit-author-section {
+  background-color: transparent !important;
+  color: #f8f8f2 !important;
+}
+.table-list-cell .commit-title {
+  background-color: transparent !important;
+  color: #f8f8f2 !important;
+}
+.completeness-indicator-success {
+  background-color: #50fa7b !important;
+}
+.completeness-indicator-problem {
+  background-color: #f1fa8c !important;
+  color: #fff !important;
+}
+.copyable-terminal {
+  background-color: #44475a !important;
+}
+.blankslate {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.comment-form-head.tabnav {
+  background-color: #282a36 !important;
+}
+.conversation-list-heading .inner {
+  background-color: #282a36 !important;
+}
+.discussion-item-closed .discussion-item-icon {
+  background-color: #f55 !important;
+  color: #f8f8f2 !important;
+}
+.discussion-item-icon {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.discussion-item-icon.octicon {
+  color: #f8f8f2 !important;
+}
+.discussion-item-entity,
+.discussion-item .renamed-was,
+.discussion-item .renamed-is {
+  color: #f8f8f2 !important;
+}
+.discussion-timeline:before {
+  background-color: #6272a4 !important;
+}
+.discussion-timeline-actions {
+  background-color: #282a36 !important;
+}
+.drag-and-drop {
+  background-color: #44475a !important;
+}
+.new-discussion-timeline .closed-banner {
+  background-color: #6272a4 !important;
+  border-color: #282a36 !important;
+}
+.timeline-comment {
+  background-color: #282a36 !important;
+  border-color: #6272a4 !important;
+}
+.timeline-comment-header {
+  background-color: #44475a !important;
+}
+.timeline-comment-wrapper {
+  border-color: #282a36 !important;
+}
+.donut-chart > .pending {
+  fill: #f1fa8c !important;
+}
+.dropdown-divider {
+  background-color: #6272a4 !important;
+}
+.dropdown-item {
+  color: #f8f8f2 !important;
+}
+.dropdown-item:hover {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.dropdown-menu {
+  background-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+  border-color: #6272a4 !important;
+}
+.files * {
+  color: #f8f8f2 !important;
+}
+.files tbody tr {
+  border-color: #44475a !important;
+}
+.files tbody tr:nth-child(even) {
+  background-color: #2c2e3b !important;
+}
+.files tbody tr:nth-child(odd) {
+  background-color: #282a36 !important;
+}
+.files tbody tr:hover * {
+  background-color: #4a4d62 !important;
+}
+.btn {
+  background-image: linear-gradient(to bottom, bacground, #282a36) !important;
+  border-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.btn:hover {
+  background-color: #474a5e !important;
+}
+.btn-primary,
+.issues-listing .btn-primary {
+  background-color: #50fa7b !important;
+  background-image: linear-gradient(#50fa7b, #05a02c) !important;
+  color: #000 !important;
+  filter: opacity(62.5%);
+}
+.entry-title a {
+  color: #00f !important;
+}
+.Header {
+  background-color: #474a5e !important;
+  border-bottom-color: #6272a4 !important;
+}
+.Header a {
+  color: #f8f8f2 !important;
+}
+.lang {
+  color: #f8f8f2 !important;
+}
+.reponav-item,
+.pagehead-tabs-item {
+  background-color: #44475a !important;
+  border-color: transparent !important;
+  color: #f8f8f2 !important;
+}
+.reponav-item:visited,
+.pagehead-tabs-item:visited {
+  color: #f8f8f2 !important;
+}
+.reponav-item.selected,
+.pagehead-tabs-item.selected {
+  background-color: #282a36 !important;
+  border-color: #f55 #4a4d62 transparent !important;
+}
+.site-footer-links * {
+  color: #f8f8f2 !important;
+}
+.Box-row--focus-gray.navigation-focus {
+  background-color: #474a5e !important;
+  color: #f8f8f2 !important;
+}
+.js-directory-link {
+  color: #f55 !important;
+}
+.js-site-search-form input,
+.js-chromeless-input-container {
+  background-color: #282a36 !important;
+  border-color: #6272a4 !important;
+}
+a.label {
+  color: #000 !important;
+  filter: opacity(75%);
+}
+.notifications-list a {
+  color: #f8f8f2 !important;
+}
+.notifications-list li {
+  background-color: #282a36 !important;
+}
+.octicon-repo {
+  color: base1 !important;
+}
+.type-icon-state-closed {
+  color: rgba(255,108,102,0.65) !important;
+}
+.type-icon-state-merged {
+  color: #ee82ee !important;
+}
+.type-icon-state-open {
+  color: rgba(102,255,160,0.65) !important;
+}
+.octicon-alert {
+  color: #fff !important;
+}
+.octicon-x {
+  color: #f55 !important;
+}
+.octicon-check {
+  color: #50fa7b !important;
+}
+.octicon-primitive-dot {
+  color: #f1fa8c !important;
+}
+.octicon-clippy {
+  color: #f8f8f2 !important;
+}
+.octicon-diff {
+  color: #fff !important;
+}
+.octicon-markdown {
+  color: #6272a4 !important;
+}
+.orghead {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+  border-bottom: 0px !important;
+  color: #f8f8f2 !important;
+}
+.org-name {
+  color: #f8f8f2 !important;
+}
+.pagehead.orghead {
+  background-color: #44475a !important;
+}
+.outline-box-highlighted {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.pagination .current {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.pagination .disabled {
+  background-color: #44475a !important;
+  color: #6272a4 !important;
+}
+.pagination .disabled:hover {
+  background-color: #44475a !important;
+}
+.pagination .gap {
+  background-color: #44475a !important;
+  color: #6272a4 !important;
+}
+.pagination a {
+  background-color: #44475a !important;
+  border-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+.pagination a:hover {
+  background-color: #6272a4 !important;
+  color: #282a36 !important;
+}
+.empty-cell,
+.diffbar {
+  background-color: #282a36 !important;
+}
+.merge-status-item {
+  background-color: #4a4d62 !important;
+}
+.merge-message {
+  background-color: #474a5e !important;
+}
+.pr-toolbar {
+  background-color: #282a36 !important;
+}
+.review-thread-reply {
+  background-color: #44475a !important;
+}
+.review-thread-reply .inline-comment-form {
+  background-color: #282a36 !important;
+}
+.merged.octicon,
+.octicon-git-merge {
+  color: #ee82ee !important;
+}
+.uploaded-files {
+  background-color: #282a36 !important;
+}
+.upload-progress {
+  background-color: #44475a !important;
+  box-shadow: 1px 0px 0px #44475a inset;
+}
+#readme .plain {
+  background-color: #282a36 !important;
+}
+.markdown-body,
+.markdown-body table * {
+  background-color: #282a36 !important;
+  border-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.markdown-body a,
+.markdown-body table * a {
+  color: #f55 !important;
+}
+.markdown-body code,
+.markdown-body table * code,
+.markdown-body pre,
+.markdown-body table * pre {
+  background-color: #44475a !important;
+}
+.markdown-body hr,
+.markdown-body table * hr {
+  background-color: #6272a4 !important;
+}
+.markdown-body img,
+.markdown-body table * img {
+  background-color: #282a36 !important;
+}
+.task-list-item.hovered {
+  background-color: #44475a !important;
+}
+.range-editor {
+  background-color: #44475a !important;
+}
+.compare-pr-placeholder {
+  background-color: #474a5e !important;
+}
+ul.comparison-list > li.title {
+  background-color: #4a4d62 !important;
+}
+ul.comparison-list {
+  background-color: #474a5e !important;
+}
+.repository-description {
+  color: #f8f8f2 !important;
+}
+.repository-meta .edit-repository-meta label {
+  color: #f8f8f2 !important;
+}
+.pagehead.repohead {
+  background-color: #44475a !important;
+}
+.repository-content .RecentBranches {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.repohead-details-container a {
+  color: #f8f8f2 !important;
+}
+.select-menu-modal {
+  border-color: #f8f8f2 !important;
+}
+.select-menu-modal * {
+  color: #f8f8f2 !important;
+}
+.select-menu-header,
+.select-menu-header * {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+  text-shadow: none !important;
+}
+.select-menu-item {
+  background-color: #282a36 !important;
+}
+.select-menu-item.navigation-focus,
+.select-menu-item.navigation-focus.selected,
+.select-menu-item.navigation-focus.select-menu-action,
+.select-menu-item-text.navigation-focus {
+  background-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.repository-sidebar {
+  background-color: #282a36 !important;
+}
+.thread-subscription-status {
+  background-color: #282a36 !important;
+}
+.sunken-menu {
+  background-image: linear-gradient(to right, #44475a 0%, #282a36 8px) !important;
+  box-shadow: 1px 0px 0px #44475a inset;
+}
+.sunken-menu:before {
+  background-image: linear-gradient(#282a36, transparent) !important;
+}
+.sunken-menu:after {
+  background-image: linear-gradient(transparent, #282a36) !important;
+}
+.sunken-menu-item {
+  border-color: #282a36 !important;
+}
+.sunken-menu-item.selected {
+  background-color: #282a36 !important;
+  border-color: #4a4d62 !important;
+  color: #f8f8f2 !important;
+}
+.sunken-menu-item.selected:after {
+  background-color: #ffb86c !important;
+}
+.sunken-menu-separator:before {
+  background-image: linear-gradient(to right, #44475a 70%, #282a36 100%) !important;
+}
+.state {
+  color: #f8f8f2 !important;
+}
+.state-closed {
+  background-color: #f55 !important;
+}
+.state-open {
+  background-color: #50fa7b !important;
+}
+.subnav-item {
+  color: #f8f8f2 !important;
+}
+.subnav-item:hover {
+  background-color: #474a5e !important;
+}
+.subnav-item:visited {
+  color: #f8f8f2 !important;
+}
+.subnav-item.selected {
+  background-color: #44475a !important;
+}
+.subnav-links a:hover {
+  background-color: #44475a !important;
+}
+.subnav-search input {
+  border-color: #6272a4 !important;
+}
+.right .tabnav-extra {
+  color: #6272a4 !important;
+}
+a.tabnav-tab,
+.tabnav-tab {
+  border-color: transparent !important;
+  color: #6272a4 !important;
+}
+a.tabnav-tab.selected,
+.tabnav-tab.selected {
+  background-color: #282a36 !important;
+  background-image: linear-gradient(#44475a, #282a36) !important;
+  border-color: #6272a4 !important;
+  color: #f8f8f2 !important;
+}
+.table-list tr,
+.table-list li {
+  background-color: #282a36 !important;
+}
+.table-list tr:hover,
+.table-list li:hover {
+  background-color: #4a4d62 !important;
+}
+.table-list-header {
+  background-color: #44475a !important;
+}
+.text-pending {
+  color: #f1fa8c !important;
+}
+.text-pending .octicon-primitive-dot {
+  color: #f1fa8c !important;
+}
+.text-red {
+  color: #f55 !important;
+}
+.timeline-commits .commit-meta {
+  background-color: #282a36 !important;
+}
+.timeline-commits .commit-meta .commit-id {
+  color: #6272a4 !important;
+}
+.topic-tag.topic-tag-link {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+.underline-nav-item {
+  color: #f8f8f2 !important;
+}
+.underline-nav-item.selected {
+  border-bottom-color: #f55 !important;
+  color: #f8f8f2 !important;
+}
+.user-profile-nav {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.user-profile-sticky-bar:after {
+  background-color: #44475a !important;
+  border-color: #6272a4 !important;
+}
+.graphs .area {
+  fill: #50fa7b;
+}
+.summary-stats li .num {
+  color: #f8f8f2 !important;
+}
+.viz {
+  background-color: #474a5e !important;
+}
+.facebox-popup {
+  color: #f8f8f2 !important;
+  background-color: #282a36 !important;
+}
+.facebox-popup .octicon {
+  color: #fff !important;
+}
+.facebox-popup .owner-select-target {
+  color: #f8f8f2 !important;
+  background-color: #44475a !important;
+}
+.facebox-popup .owner-select-target:hover {
+  background-color: #6272a4 !important;
+}
+.suggester {
+  background-color: #4a4d62 !important;
+}
+.suggester li.navigation-focus {
+  background-color: #6272a4 !important;
+}
+.menu {
+  background-color: #44475a !important;
+}
+.menu-item.selected {
+  background-color: #4a4d62 !important;
+}
+.menu-item:hover {
+  background-color: #6272a4 !important;
+}
+.Box {
+  background-color: #282a36 !important;
+}
+.Box-header {
+  background-color: #44475a !important;
+}
+svg > * text {
+  color: #f8f8f2 !important;
+  fill: #f8f8f2 !important;
+}
+.insertions {
+  color: #50fa7b !important;
+}
+.deletions {
+  color: #f55 !important;
+}
